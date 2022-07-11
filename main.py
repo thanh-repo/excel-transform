@@ -129,7 +129,7 @@ class Win(Tk):
         for elt in cmmentLines:
             if (len(elt.split(":", 1)) == 2):
                 key, value = elt.split(":", 1)
-                if key.strip().lower() in ['defect type', 'defect name', 'usaa guideline', 'defect description', 'impact', 'severity', 'library']:
+                if key.strip().lower() in ['defect type', 'defect name', 'usaa guideline', 'defect description', 'impact', 'severity', 'library', 'priority']:
                     if not value.strip():
                         if cleanDefect:
                             self.logF.write("\n\n"+row['Screen Name'] + " " + str(row['Conversation']) + " " + row['Comment By'])
@@ -188,7 +188,7 @@ class Win(Tk):
         for elt in cmmentLines:
             if (len(elt.split(":", 1)) == 2):
                 key, value = elt.split(":", 1)
-                if key.strip().lower() in ['defect type', 'defect name', 'usaa guideline', 'defect description', 'impact', 'severity', 'library']:
+                if key.strip().lower() in ['defect type', 'defect name', 'usaa guideline', 'defect description', 'impact', 'severity', 'library', 'priority']:
                     if not value.strip():
                         if cleanDefect:
                             self.logF.write("\n\n"+row['Screen Name'] + " " +
