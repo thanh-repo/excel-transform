@@ -1,0 +1,11 @@
+Prototype,Screen Name,Screen File,Workflow Status,Archive Status,Conversation,Conversation Type,Conversation Status,Comment By,Comment At,Comment,Console URL
+Special Events,Special_Eevents_web,Special_Events_Web_png,In Progress,,1,Comment,Open,john.doe@usaa.com,5/17/2022,"DEFECT
+Defect Type:Accessibility
+Defect name: Headings must be hierarchical
+USAA Guideline: 2.4.10
+Defect Description: The design should ensure the headings are annotated
+Impact: Helps with bots
+Priority: Must Resolve
+Severity: Major Problem
+Library: Yes""",https://google.com
+Special Events,Special_Eevents_web,Special_Events_Web_png,In Progress,,1,Dev Note,Open,john.doe@usaa.com,5/17/2022,Is the entire oage  supposed to magnify?,https://google.com

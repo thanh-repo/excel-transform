@@ -1,0 +1,10 @@
+Prototype,Screen Name,Screen File,Archive Status,Conversation Status,Comment Type,Commented By,Commented At,Comment,Console URL
+Special Events,Special_Events_web,Special_Events_Web_png,Active,Open,Public,john.doe@usaa.com,5/17/2022,"DEFECT
+Defect Type:Accessibility
+Defect name: Headings must be hierarchical
+USAA Guideline: 2.4.10
+Defect Description: The design should ensure the headings are annotated
+Impact: Helps with bots
+Priority: Must Resolve
+Severity: Major Problem
+Library: Yes""",https://google.com
